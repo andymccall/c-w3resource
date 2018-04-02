@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.9)
+project(c-w3resource C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(c-w3resource main.c)
+add_executable(exercise01 C_Basic_Declarations_and_Expressions/exercise01.c)
+add_executable(exercise02 C_Basic_Declarations_and_Expressions/exercise02.c)
+add_executable(exercise03 C_Basic_Declarations_and_Expressions/exercise03.c)
+add_executable(exercise04 C_Basic_Declarations_and_Expressions/exercise04.c)
