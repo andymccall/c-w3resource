@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /*
  * 1. Write a C program to print your name, date of birth. and mobile number. Go to the editor
  * Expected Output:
@@ -6,8 +8,6 @@
  * DOB    : July 14, 1975
  * Mobile : 99-9999999999
 */
-
-#include <stdio.h>
 
 int main() {
 
